@@ -1,0 +1,13 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Thanks for raising an issue at StatusNeo-101 :+1:'
+        pr-message: 'Thanks for opening a Pull Request on StatusNeo-101. Our team will review your PR shortly :+1:'
