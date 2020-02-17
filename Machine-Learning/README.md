@@ -19,3 +19,6 @@
 **3. Classification**
  * Logistic Regression
  * K Nearest Neighbors Classification
+ * Support Vector Machine
+ * Kernel SVM
+ * Naive Bayes
