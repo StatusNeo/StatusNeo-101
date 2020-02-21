@@ -22,3 +22,4 @@
  * Support Vector Machine
  * Kernel SVM
  * Naive Bayes
+ * Decision Tree Classification
