@@ -13,3 +13,5 @@
 [5. Naive Bayes](Naive_Bayes)
 
 [6. Decision Tree Classification](Decision_Tree_Classification)
+
+[7. Random Forest Classification](Random_Forest_Classification)
