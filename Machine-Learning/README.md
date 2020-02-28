@@ -23,3 +23,7 @@
  * Kernel SVM
  * Naive Bayes
  * Decision Tree Classification
+
+**4. Clustering**
+ * K Means Clustering
+ * Hierarchical Clustering
