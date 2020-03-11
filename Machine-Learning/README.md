@@ -23,7 +23,15 @@
  * Kernel SVM
  * Naive Bayes
  * Decision Tree Classification
+ * Random Forest Classification
 
 **4. Clustering**
- * K Means Clustering
+ * K-Means Clustering
  * Hierarchical Clustering
+ 
+**5. Association Rule**
+ * Apriori 
+ * Eclat
+ 
+**6. Reinforcement Learning**
+  * Upper Confidence Bounds
