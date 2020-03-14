@@ -1,0 +1,5 @@
+bye	5
+hellO	1
+hello	2
+hey	4
+hi	4

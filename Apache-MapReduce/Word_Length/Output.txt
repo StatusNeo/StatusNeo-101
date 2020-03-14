@@ -1,0 +1,5 @@
+hadoop	6
+hive	4
+kafka	5
+mapreduce	9
+sqoop	5
