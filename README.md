@@ -6,6 +6,8 @@ A repository meant for sharing bootstrap knowledge on key technologies and frame
 
 1. Machine Learning
 
+* See the #100DaysofMLChallenge Log file [here](Machine-Learning/100Days_Log.md).
+
 2. Apache Maven
 
 ## How to contribute
